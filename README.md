@@ -4,13 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/Rayat-ullah/doctor_appointment_app/assets/90436318/f429aee7-7334-4bda-9562-7dd689a2c6e1)
+![2](https://github.com/Rayat-ullah/doctor_appointment_app/assets/90436318/ec202f8d-9364-44d9-bc6c-b05e6d339567)
+![3](https://github.com/Rayat-ullah/doctor_appointment_app/assets/90436318/3d23b595-d72a-42ff-9895-e4690c3faccd)
